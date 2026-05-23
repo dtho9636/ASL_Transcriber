@@ -1,6 +1,5 @@
 ﻿"""
-ASL Sign Language Transcriber  |  TSA Nationals - Software Development
-Sandy Utah, Team #1: Daxton Thorne, Claire Kunz, Rayhan Ahmed, Carmine Terry, Adelaide Hopkins
+ASL Sign Language Transcriber
 
 A real-time American Sign Language transcriber that uses MediaPipe's hand
 landmarker model to detect and classify hand gestures.
