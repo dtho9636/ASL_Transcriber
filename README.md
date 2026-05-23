@@ -18,18 +18,3 @@ This project aims to build a real-time sign language transcription system using 
 * OpenCV (webcam + image processing)
 * MediaPipe (hand tracking)
 * Machine learning model (TensorFlow or PyTorch)
-
-## Current Status
-
-Initial setup:
-
-* Webcam feed working
-* Project structure created
-
-## Roadmap
-
-* [ ] Integrate hand tracking (MediaPipe)
-* [ ] Collect or import training data
-* [ ] Train sign recognition model
-* [ ] Convert predictions to text
-* [ ] Build simple UI
